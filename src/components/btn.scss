@@ -1,0 +1,13 @@
+.btn {
+    &-button {
+        margin: 0 10px;
+    }
+
+    &-text {
+        color: red;
+
+        &-highlighted {
+            color: green;
+        }
+    }
+}

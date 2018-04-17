@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="btn"
+>
+  <button
+    className="btn-button"
+    onClick={[Function]}
+  >
+    Change
+  </button>
+  <span
+    className="btn-text-highlighted"
+  >
+    Very important text
+  </span>
+</div>
+`;

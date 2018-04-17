@@ -1,5 +1,6 @@
 {
   "name": "webpack-config",
+  "description": "Webpack 3 + Babel + React Hot Loader + Jest config",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
